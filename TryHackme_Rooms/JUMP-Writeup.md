@@ -150,7 +150,7 @@ cat flag.txt
 ```
 
 ```text
-THM{5a3f1c92-7b4e-4d91-8c2a-1f6e9b2a4c11}
+THM{5a3f1c92-7b4e-4d91-8c2............}
 ```
 
 ---
@@ -196,7 +196,7 @@ cat flag.txt
 Flag:
 
 ```text
-THM{8d2b7a41-3f9c-4e55-b1a2-6c7d9e8f0123}
+THM{8d2b7a41-3f9c-4e55-b1a......}
 ```
 
 ---
@@ -334,7 +334,7 @@ cat flag.txt
 Flag:
 
 ```text
-THM{c1e9a7b3-2d44-4a88-9f7e-3b6c2d5a9f77}
+THM{c1e9a7b3-2d44-4a88-9f7e-3b6.......}
 ```
 
 Verify the current user:
@@ -564,7 +564,7 @@ cat /root/flag.txt
 ```
 
 ```text
-THM{2b8e6c4a-1d55-4f90-a3c7-5e9d1b7f6a22}
+THM{2b8e6c4a-1d55-4f90-a3c7-5e9d.........}
 ```
 
 ---
